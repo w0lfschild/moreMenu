@@ -11,17 +11,15 @@
 #endif /* main_h */
 
 @import AppKit;
-#import "ZKSwizzle.h"
 
 @interface moreMenu : NSObject
 + (moreMenu*) sharedInstance;
 - (void)toggleMenu:(id)sender;
-- (void)setupOurButton;
+- (void)hideMenu:(id)sender;
+- (void)setupOurButton:(BOOL)pointLeft;
 @end
 
 @interface wb_NSMenuHook : NSMenu
 @property NSString* oldTitle;
 @property NSArray* itemz;
-//- (id)_itemArray;
-- (void)dumb;
 @end

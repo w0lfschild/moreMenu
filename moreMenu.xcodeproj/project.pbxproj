@@ -14,7 +14,6 @@
 /* Begin PBXFileReference section */
 		FB3A9DA820D6E5250023E421 /* moreMenu.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = moreMenu.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB3A9DAB20D6E5250023E421 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FB3A9DAE20D6E5250023E421 /* CaptainHook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CaptainHook.h; path = Hook/CaptainHook.h; sourceTree = "<group>"; };
 		FB3A9DAF20D6E5250023E421 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB3A9DB520D6E53C0023E421 /* ZKSwizzle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKSwizzle.m; sourceTree = "<group>"; };
 		FB3A9DB620D6E53C0023E421 /* ZKSwizzle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKSwizzle.h; sourceTree = "<group>"; };
@@ -51,21 +50,12 @@
 		FB3A9DAA20D6E5250023E421 /* moreMenu */ = {
 			isa = PBXGroup;
 			children = (
-				FB3A9DAD20D6E5250023E421 /* Hook */,
 				FB3A9DB920D725780023E421 /* ZKSwizzle */,
 				FB3A9DB820D71EC70023E421 /* main.h */,
 				FB3A9DAB20D6E5250023E421 /* main.m */,
 				FB3A9DAF20D6E5250023E421 /* Info.plist */,
 			);
 			path = moreMenu;
-			sourceTree = "<group>";
-		};
-		FB3A9DAD20D6E5250023E421 /* Hook */ = {
-			isa = PBXGroup;
-			children = (
-				FB3A9DAE20D6E5250023E421 /* CaptainHook.h */,
-			);
-			name = Hook;
 			sourceTree = "<group>";
 		};
 		FB3A9DB920D725780023E421 /* ZKSwizzle */ = {
