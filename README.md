@@ -5,7 +5,7 @@
 # Information:
 
 - Tested on 10.14
-- Menubar application with companion mySIMBL plugin to shrink the menubar of the running application
+- mySIMBL plugin to shrink the menubar of the running application
 - Author:
     + [w0lfschild](https://github.com/w0lfschild)
 
