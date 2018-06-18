@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2018 Wolfgang Baird. All rights reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string></string>
+	<key>macSubstratePlugin</key>
+	<dict>
+		<key>AuthorEmail</key>
+		<string>aguywithlonghair@yahoo.com</string>
+		<key>AuthorName</key>
+		<string>w0lf</string>
+		<key>Description</key>
+		<string>More menu space</string>
+		<key>TargetAppBundleID</key>
+		<string>*</string>
+	</dict>
+	<key>SIMBLTargetApplications</key>
+	<array>
+		<dict>
+			<key>BundleIdentifier</key>
+			<string>*</string>
+		</dict>
+	</array>
+</dict>
+</plist>
