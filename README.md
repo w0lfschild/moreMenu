@@ -1,4 +1,4 @@
-# cleanMenu
+# moreMenu
 
 ![preview](preview.gif)
 
