@@ -1,6 +1,6 @@
 # cleanMenu
 
-![preview](preview.png)
+![preview](preview.gif)
 
 # Information:
 
