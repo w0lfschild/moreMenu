@@ -15,13 +15,20 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.2.1</string>
+	<string>0.3.1</string>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>3</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 Wolfgang Baird. All rights reserved.</string>
 	<key>NSPrincipalClass</key>
 	<string></string>
+	<key>SIMBLTargetApplications</key>
+	<array>
+		<dict>
+			<key>BundleIdentifier</key>
+			<string>*</string>
+		</dict>
+	</array>
 	<key>macSubstratePlugin</key>
 	<dict>
 		<key>AuthorEmail</key>
@@ -33,12 +40,5 @@
 		<key>TargetAppBundleID</key>
 		<string>*</string>
 	</dict>
-	<key>SIMBLTargetApplications</key>
-	<array>
-		<dict>
-			<key>BundleIdentifier</key>
-			<string>*</string>
-		</dict>
-	</array>
 </dict>
 </plist>
